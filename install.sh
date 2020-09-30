@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-wget https://raw.githubusercontent.com/hectorsiglo21/VPSMANAGER/master/mega-center.rar > /dev/null 2>&1
+wget https://raw.githubusercontent.com/hectorsiglo21/project/master/mega-center.rar > /dev/null 2>&1
 echo "     CopyRight 2020 Alone in the Dark"
 echo
 echo

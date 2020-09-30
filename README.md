@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/hectorsiglo21/VPSMANAGER/master/install.sh; chmod 777 install.sh* && ./install.sh*
+wget https://raw.githubusercontent.com/hectorsiglo21/project/master/install.sh; chmod 777 install.sh* && ./install.sh*
